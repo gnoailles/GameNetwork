@@ -1,0 +1,6 @@
+[submodule "Dependencies/NGCrypto"]
+	path = Dependencies/NGCrypto
+	url = https://github.com/gnoailles/Cryptography-Sandbox.git
+[submodule "Dependencies/NGMP"]
+	path = Dependencies/NGMP
+	url = https://github.com/gnoailles/MultiPrecision.git
